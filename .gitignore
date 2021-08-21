@@ -1,3 +1,6 @@
+# Exclude my test files
+*_orig.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
